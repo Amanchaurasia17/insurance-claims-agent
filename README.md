@@ -46,7 +46,7 @@ Synapx/
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd Synapx
+cd insurance-claims-agent
 
 # Create virtual environment (recommended)
 python -m venv venv
